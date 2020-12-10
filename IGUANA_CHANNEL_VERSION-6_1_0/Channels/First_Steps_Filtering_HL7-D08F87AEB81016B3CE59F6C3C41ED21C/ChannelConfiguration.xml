@@ -61,7 +61,7 @@
       error_handling="0"
       use_translator_filter="true"
       translator_guid="First_Steps_Filtering_HL7-Filter-uZ0kJVuru6EbTs"
-      translator_commit_id="41fe1fca6461588ee28730ca157796e28c2329a5"
-      translator_commit_comment="Import Translators: test3">
+      translator_commit_id="2e256980bd11e4a08e6e82928bea139cb6bdf24d"
+      translator_commit_comment="Import Translators: test">
    </message_filter>
 </channel>
